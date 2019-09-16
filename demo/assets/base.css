@@ -1,0 +1,12 @@
+.parent{
+  position:relative;
+  float:right;
+}
+.example {
+  color: #fff;
+  background-color: #08c;
+  display:inline-block;
+}
+.cell {
+  margin: 100px 200px;
+}
